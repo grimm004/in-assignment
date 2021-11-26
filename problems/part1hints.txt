@@ -1,0 +1,9 @@
+Some hints
+
+So as to help you supply an appropriate answer, I give some hints below as to what you should be looking for in each question.
+
+Question 1: pretty straightforward with the answer available from the lecture (focus on "overheads" and "difficulties" in your answer).
+
+Question 2: (a) pretty straightforward (of course, you should explain your reasoning); note that path u, x, y, z, say, should be stored using 12 bits (4 for x, 4 for y and 4 for z); your paths should be minimal so as to save storage space (b) a simple calculation (again, you should explain your reasoning); (c) you should use the algebraic definition of Q4 when devising your coding scheme.
+
+Question 3: (a) by "concise algebraic description" I mean a formal mathematical description describing the names of the nodes and when they are adjacent; (b) if you provide a broadcast schedule then you need to say exactly which messages are being sent between which nodes at every time step; (c) pretty straightforward (of course, you should explain your reasoning); (d) you should think of a total exchange as a collection of single-node scatters but strongly resist the temptation to write down a route for every possible source and destination node!
